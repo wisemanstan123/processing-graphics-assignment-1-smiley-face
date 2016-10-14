@@ -1,8 +1,8 @@
 # CSE1110-processing-assignment-1
-You will be using Processing for this assignment. Make sure you save your program on the F drive in your Computer Science folder.
+You will be using [Processing](https://processing.org/) for this assignment. Make sure you save your program on the F drive in your Computer Science folder. Use the online Processing reference (https://processing.org/reference/) to find information about how to use commands.
 
 ## Step 1
-Begin with the following code:
+[] Begin with the following code:
 
 ```
 void setup() {
@@ -13,7 +13,6 @@ void draw() {
 
 }
 ```
-
 ## Step 2 
 * Draw three equally sized rectangles across the screen
 * Line them up evenly (same Y coordinates)
