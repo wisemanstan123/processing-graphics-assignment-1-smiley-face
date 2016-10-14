@@ -1,18 +1,23 @@
 # CSE1110-processing-assignment-1
 You will be using [Processing](https://processing.org/) for this assignment. Save your program on the F drive in your Computer Science folder. Use the online Processing reference (https://processing.org/reference/) to find information about how to use commands. Check off the items as you completed them (Check out [How to use task lists in markdown documents](https://github.com/blog/1825-task-lists-in-all-markdown-documents)).
 
+Your final program should produce an image like this.
 ![exemplar.png](exemplar.png)
 
 ## Step 1
 - [ ] Begin with the following code:
 
 ```
+// Set up canvas
 void setup() {
-  size(700, 500);
- background(100, 10, 100);
+  size(700, 500); // Size of canvas
+  background(100, 10, 100); // Background color as rgb values
 }
-void draw() {
 
+void draw() {
+  // Your program will be here...
+  
+  // Do not forget comments!
 }
 ```
 ## Step 2 
