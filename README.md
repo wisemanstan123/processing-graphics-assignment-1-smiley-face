@@ -1,4 +1,6 @@
 # CSE1110-processing-assignment-1
+**Due: Tuesday October 18, 2016**
+
 You will be using [Processing](https://processing.org/) for this assignment. Save your program on the F drive in your Computer Science folder. Use the online Processing reference (https://processing.org/reference/) to find information about how to use commands. Check off the items as you completed them (Check out [How to use task lists in markdown documents](https://github.com/blog/1825-task-lists-in-all-markdown-documents)).
 
 Your final program should produce an image like this.
@@ -55,3 +57,6 @@ void draw() {
 - [ ] Draw the mouth.  
 - [ ] Change the stroke, strokeWeight and fill colours as you wish. 
 * References: https://processing.org/reference/line_.html
+
+## Step 8
+- [ ] Comment your code
