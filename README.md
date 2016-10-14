@@ -1,4 +1,5 @@
 # CSE1110-processing-assignment-1
+You will be using Processing for this assignment. Make sure you save your program on the F drive in your Computer Science folder.
 
 ## Step 1
 Begin with the following code:
