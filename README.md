@@ -1,8 +1,8 @@
 # CSE1110-processing-assignment-1
 
-You will be using [Processing](https://processing.org/) for this assignment. Save your program on the F drive in your Computer Science folder. Use the online Processing reference (https://processing.org/reference/) to find information about how to use commands. Check off the items as you completed them (Check out [How to use task lists in markdown documents](https://github.com/blog/1825-task-lists-in-all-markdown-documents)).
+In this assignment you will start learning how to create graphical output using Processing.
 
-Your final program should produce an image like this. The colours do not have to be the same, but as long as you have followed all the instructions and changed the default values for colors. 
+Your final program should produce an image like this. The colours do not have to be the same as long as you have followed all the instructions and changed the default values for colors. 
 ![exemplar.png](exemplar.png)
 
 ## Step 1
