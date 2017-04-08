@@ -60,4 +60,3 @@ void draw() {
 ## Step 8
 - [ ] Comment your code
 
-[Submitt your assignment for marking here](https://docs.google.com/a/epsb.ca/forms/d/e/1FAIpQLSdnnOUlwawWq9wmrKJZH40JlfNuSE8QaFGsJ_6OlzZle7m3MA/viewform)
