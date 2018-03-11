@@ -3,7 +3,7 @@
 In this assignment you will start learning how to create graphical output using Processing.
 
 Your final program should produce an image like this. The colours do not have to be the same as long as you have followed all the instructions and changed the default values for colors. 
-![images/exemplar.png](exemplar.png)
+![exemplar.png](images/exemplar.png)
 
 ## Step 1
 - [ ] Begin with the following code:
