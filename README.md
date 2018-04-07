@@ -1,4 +1,4 @@
-# CSE1110-processing-assignment-1
+# processing-graphics-1-smiley-face
 
 In this assignment you will start learning how to create graphical output using Processing.
 
