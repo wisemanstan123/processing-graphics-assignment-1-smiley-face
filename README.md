@@ -1,5 +1,7 @@
 # processing-graphics-1-smiley-face
 
+**[Assignment Standard Operating Procedures](https://mariopineda.github.io/assignment-sops/)**
+
 In this assignment you will start learning how to create graphical output using Processing.
 
 Your final program should produce an image like this. The colours do not have to be the same as long as you have followed all the instructions and changed the default values for colors. 
