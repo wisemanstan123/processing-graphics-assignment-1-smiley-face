@@ -1,18 +1,28 @@
 /**
- * <program/assignment name>
- * by <Your Name>
+ * Smiley face
+ * by Stanley
  * 
- * <Two sentence description of program>
+ * making a smiley face using programming for my intro comp science class
  * 
  */
 
 void setup() {
-  size(700, 500); // Size of canvas
-  background(100, 10, 100); // Background color as rgb values
+  size(700, 500);
+  background( 0, 0, 0); 
 }
 
 void draw() {
-  // Your program will be here...
+  strokeWeight(1);
+  stroke( 0, 255, 0);
+  fill( 255, 0, 0);
+  rect( 70, 70, 100, 60);
+  strokeWeight(4);
+  stroke( 0, 0, 255);
+  fill( 0, 255 ,0);
+  rect( 240, 70, 100, 60);
+  strokeWeight(4);
+  stroke( 0, 0, 255);
+  fill( 0, 255 ,0);
+  rect( 240, 70, 100, 60);
   
-  // Do not forget comments!
 }
