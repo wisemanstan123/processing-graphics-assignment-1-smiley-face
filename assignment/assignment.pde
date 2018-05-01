@@ -42,7 +42,12 @@ void draw() {
   stroke( 255, 0, 0);
   fill( 0, 0, 255);
     rect( 500, 50, 100, 50);
-  
-  
+  fill(255, 255, 255);
+  textSize(12);
+    text("Red Fill", 125, 90); 
+    text("strokeWeight=4", 300, 90);
+    text("strokeWeight=10", 470, 90);
+    text("Fill=Blue", 470, 105);
+
 
 }
